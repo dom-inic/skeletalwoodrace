@@ -1,0 +1,6 @@
+skeletal wood race is my project and this game is protected under the gnu licence. 
+the game comes from an shortfilmi had seen before and decided to develop a game from the animation. 
+the game is all about a skeleton that is on wood and stuck in the middle of the sea after its pirate boat crashed in 
+a stormy sea breeze. after the crash the only thing the skeleton found its self on was on a piece of wood with a treasure box remaining as the only piece of treasure. also remaining is a piece of string and a hook. using the hook and the string. the skeleton ties a piece of gold coin and throws it into the ocean which is accidentally cought by a big shark, an idea strucks the skeleton to use the shark so as to tow him  and the piece of wood towards the shore of the ocean.
+the main aim of the game is to escape from colliding with some ocean features such as some rocks, trees, and even other  marine creatures and succesfully reach the shore.
+the player has to control the skeleton from right to left using the left and right arrow keys and the space bar to duck  some of the tall ocean features. 
